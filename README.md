@@ -1,0 +1,2 @@
+# Proyectofinal_parquedeatracciones_gpo6J_abril2026
+Proyecto parque de atracciones utilizando agetes framework flutter abril 2026
